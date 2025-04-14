@@ -1,29 +1,11 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    20:11:57 04/13/2025 
-// Design Name: 
-// Module Name:    basic_gates 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module basic_gates(
     input a,
     input b,
     output and_out,
     output or_out,
-	 output not_out,
+    output not_out,
     output nand_out,
     output nor_out,
     output xor_out,
