@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   20:30:11 04/13/2025
-// Design Name:   basic_gates
-// Module Name:   D:/DV/design/Verilog_Coding/Day_1/basic_gates/tb_basic_gates.v
-// Project Name:  basic_gates
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: basic_gates
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module tb_basic_gates;
 
 	// Inputs
